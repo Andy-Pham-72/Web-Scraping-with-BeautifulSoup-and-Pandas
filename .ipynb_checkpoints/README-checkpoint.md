@@ -55,7 +55,7 @@ import matplotlib.pyplot as plt
 
 ```
 
-For this kickoff, we'll be scraping the **random functions names and usages** from Python documentation from the website [docs.python.org](https://docs.python.org/).
+For this tutorial, we'll be scraping the **random functions names and usages** from Python documentation from the website [docs.python.org](https://docs.python.org/).
 
 ### Scrape The Data
 
@@ -98,11 +98,7 @@ response.content
 
 <<<<<<< HEAD
     b'\n<!DOCTYPE html>\n\n<html xmlns="http://www.w3.org/1999/xhtml">\n  <head>\n    <meta charset="utf-8" />\n    <title>random \xe2\x80\x94 Generate pseudo-random numbers &#8212; Python 3.9.2 documentation</title>\n    <link rel="stylesheet" href="../_static/pydoctheme.css" type="text/css" />\n    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />\n    \n    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>\n    <script src="../_static/jquery.js"></script>\n    <script src="../_static/underscore.js"></script>\n    <script src="../_static/doctools.js"></script>\n    <script src="../_static/language_data.js"></script>\n    \n    <script src="../_static/sidebar.js"></script>\n    \n    <link rel="search" type="application/opensearchdescription+xml"\n          title="Search within Python 3.9.2 documentation"\n          href="../_static/opensearch.xml"/>\n    <link rel="author" title="About these documents" href="../about.html" />\n    <link rel="index" title="Index" href="../genindex.html" />\n    <link rel="search" title="Search" href="../search.html" />\n    <link rel="copyright" title="Copyright" href="../copyright.html" />\n    <link rel="next" title="statistics \xe2\x80\x94 Mathematical statistics functions" href="statistics.html" />\n    <link rel="prev" title="fractions \xe2\x80\x94 Rational numbers" href="fractions.html" />\n    <link rel="canonical" href="https://docs.python.org/3/library/random.html" />\n    \n      \n      \n    \n\n    \n    <style>\n      @media only screen {\n        table.full-width-table {\n            width: 100%;\n        }\n      }\n    </style>\n\n    <link rel="shortcut icon" type="image/png" href="../_static/py.png" />\n    \n    <script 
-    
-    ......
-    
-    Documentation</a> &#187;\n    </li>\n\n          <li class="nav-item nav-item-1"><a href="index.html" >The Python Standard Library</a> &#187;</li>\n          <li class="nav-item nav-item-2"><a href="numeric.html" accesskey="U">Numeric and Mathematical Modules</a> &#187;</li>\n    <li class="right">\n        \n\n    <div class="inline-search" style="display: none" role="search">\n    </li>\n\n    <li><img src="../_static/py.png" alt=""\n             style="vertical-align: middle; margin-top: -1px"/></li>\n    <li><a href="https://www.python.org/">Python</a> &#187;</li>\n    \n\n    <li>\n      <a href="../index.html">3.9.2 Documentation</a> &#187;\n    </li>\n\n          <li class="nav-item nav-item-1"><a href="index.html" >The Python Standard Library</a> &#187;</li>\n          <li class="nav-item nav-item-2"><a href="numeric.html" accesskey="U">Numeric and Mathematical Modules</a> &#187;</li>\n    <li class="right">\n        \n\n    <div class="inline-search" style="display: none" role="search">\n        <form class="inline-search" action="../search.html" method="get">\n          <input placeholder="Quick search" type="text" name="q" />\n          <input type="submit" value="Go" />\n          <input type="hidden" name="check_keywords" value="yes" />\n          <input type="hidden" name="area" value="default" />\n        </form>\n    </div>\n    <script type="text/javascript">
->>>>>>> First commit
+
 
 
 
@@ -143,25 +139,6 @@ soup
     <link href="../_static/pygments.css" rel="stylesheet" type="text/css"/>
     <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
     <script src="../_static/jquery.js"></script>
- 
-
-    <a href="https://www.python.org/psf/donations/">Please donate.</a>
-    <br/>
-    <br/>
-    
-        Last updated on Mar 24, 2021.
-        <a href="https://docs.python.org/3/bugs.html">Found a bug</a>?
-        <br/>
-    
-        Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 2.4.4.
-=======
-          Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 2.4.4.
->>>>>>> First commit
-        </div>
-    <script src="../_static/switchers.js" type="text/javascript"></script>
-    </body>
-    </html>
-
 
 
 
@@ -173,6 +150,7 @@ soup
 #soup
 ```
 
+    
 **Still very long, but a little easier to take in.**
 
 The real advantage of Beautiful Soup, however, is that it *parses* our webpage according to its structure and allows us to *search for* and *extract* elements within it. This is because it transforms the webpage from a string into a special Beautiful Soup object.
@@ -205,13 +183,6 @@ print(names)
     <code class="sig-prename descclassname">random.</code><code class="sig-name descname">seed</code><span class="sig-paren">(</span><em class="sig-param">a=None</em>, <em class="sig-param">version=2</em><span class="sig-paren">)</span><a class="headerlink" href="#random.seed" title="Permalink to this definition">¶</a></dt>, <dt id="random.getstate">
     <code class="sig-prename descclassname">random.</code><code class="sig-name descname">getstate</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#random.getstate" title="Permalink to this definition">¶</a></dt>, <dt id="random.setstate">
     <code class="sig-prename descclassname">random.</code><code class="sig-name descname">setstate</code><span class="sig-paren">(</span><em class="sig-param">state</em><span class="sig-paren">)</span><a class="headerlink" href="#random.setstate" title="Permalink to this definition">¶</a></dt>, <dt id="random.randbytes">
-<<<<<<< HEAD
-    <code class="sig-prename descclassname">random.</code><code class="sig-name descname">randbytes</code><span class="sig-paren">(</span><em class="sig-param">n</em><span class="sig-paren">)</span><a class="headerlink" href="#random.randbytes" title="Permalink to this definition">¶</a></dt>, <dt id="random.randrange">
-    <code class="sig-prename descclassname">random.</code><code class="sig-name descname">randrange</code><span class="sig-paren">(</span><em class="sig-param">stop</em>
-    
-    .....
-    
-    <em class="property">class </em><code class="sig-prename descclassname">random.</code><code class="sig-name descname">SystemRandom</code><span class="sig-paren">(</span><span class="optional">[</span><em class="sig-param">seed</em><span class="optional">]</span><span class="sig-paren">)</span><a class="headerlink" href="#random.SystemRandom" title="Permalink to this definition">¶</a></dt>]
 
 
 **There are still some works to do! This is when regex kicks in.**
@@ -344,19 +315,8 @@ data
       <th>23</th>
       <td>random.Random</td>
       <td>Class that implements the default pseudo-rando...</td>
-=======
- t pseudo-rando...</td>
->>>>>>> First commit
-    </tr>
-    <tr>
-      <th>24</th>
-      <td>random.SystemRandom</td>
-      <td>Class that uses the os.urandom() function for ...</td>
-    </tr>
-  </tbody>
-</table>
-</div>
 
+</div>
 
 
 
