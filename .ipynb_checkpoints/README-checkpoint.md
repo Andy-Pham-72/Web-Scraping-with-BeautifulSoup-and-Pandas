@@ -96,7 +96,13 @@ response.content
 
 
 
-    b'\n<!DOCTYPE html>\n\n<html xmlns="http://www.w3.org/1999/xhtml">\n  <head>\n    <meta charset="utf-8" />\n    <title>random \xe2\x80\x94 Generate pseudo-random numbers &#8212; Python 3.9.2 documentation</title>\n    <link rel="stylesheet" href="../_static/pydoctheme.css" type="text/css" />\n    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />\n    \n    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>\n    <script src="../_static/jquery.js"></script>\n    <script src="../_static/underscore.js"></script>\n    <script src="../_static/doctools.js"></script>\n    <script src="../_static/language_data.js"></script>\n    \n    <script src="../_static/sidebar.js"></script>\n    \n    <link rel="search" type="application/opensearchdescription+xml"\n          title="Search within Python 3.9.2 documentation"\n          href="../_static/opensearch.xml"/>\n    <link rel="author" title="About these documents" href="../about.html" />\n    <link rel="index" title="Index" href="../genindex.html" />\n    <link rel="search" title="Search" href="../search.html" />\n    <link rel="copyright" title="Copyright" href="../copyright.html" />\n    <link rel="next" title="statistics \xe2\x80\x94 Mathematical statistics functions" href="statistics.html" />\n    <link rel="prev" title="fractions \xe2\x80\x94 Rational numbers" href="fractions.html" />\n    <link rel="canonical" href="https://docs.python.org/3/library/random.html" />\n    \n      \n      \n    \n\n    \n    <style>\n      @media only screen {\n        table.full-width-table {\n            width: 100%;\n        }\n      }\n    </style>\n\n    <link rel="shortcut icon" type="image/png" href="../_static/py.png" />\n    \n    <script type="text/javascript" src="../_static/copybutton.js"></script>\n    \n     \n\n\n  </head><body>\n  \n    <div class="related" role="navigation" aria-label="related navigation">\n      <h3>Navigation</h3>\n      <ul>\n        <li class="right" style="margin-right: 10px">\n          <a href="../genindex.html" title="General Index"\n             accesskey="I">index</a></li>\n        <li class="right" >\n          <a href="../py-modindex.html" title="Python Module Index"\n             >modules</a> |</li>\n        <li class="right" >\n          <a href="statistics.html" title="statistics \xe2\x80\x94 Mathematical statistics functions"\n             accesskey="N">next</a> |</li>\n        <li class="right" >\n          <a href="fractions.html" title="fractions \xe2\x80\x94 Rational numbers"\n             accesskey="P">previous</a> |</li>\n\n    <li><img src="../_static/py.png" alt=""\n             style="vertical-align: middle; margin-top: -1px"/></li>\n    <li><a href="https://www.python.org/">Python</a> &#187;</li>\n    \n\n    <li>\n      <a href="../index.html">3.9.2 Documentation</a> &#187;\n    </li>\n\n          <li class="nav-item nav-item-1"><a href="index.html" >The Python Standard Library</a> &#187;</li>\n          <li class="nav-item nav-item-2"><a href="numeric.html" accesskey="U">Numeric and Mathematical Modules</a> &#187;</li>\n    <li class="right">\n        \n\n    <div class="inline-search" style="display: none" role="search">\n        <form class="inline-search" action="../search.html" method="get">\n          <input placeholder="Quick search" type="text" name="q" />\n          <input type="submit" value="Go" />\n          <input type="hidden" name="check_keywords" value="yes" />\n          <input type="hidden" name="area" value="default" />\n        </form>\n    </div>\n    <script type="text/javascript">
+<<<<<<< HEAD
+    b'\n<!DOCTYPE html>\n\n<html xmlns="http://www.w3.org/1999/xhtml">\n  <head>\n    <meta charset="utf-8" />\n    <title>random \xe2\x80\x94 Generate pseudo-random numbers &#8212; Python 3.9.2 documentation</title>\n    <link rel="stylesheet" href="../_static/pydoctheme.css" type="text/css" />\n    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />\n    \n    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>\n    <script src="../_static/jquery.js"></script>\n    <script src="../_static/underscore.js"></script>\n    <script src="../_static/doctools.js"></script>\n    <script src="../_static/language_data.js"></script>\n    \n    <script src="../_static/sidebar.js"></script>\n    \n    <link rel="search" type="application/opensearchdescription+xml"\n          title="Search within Python 3.9.2 documentation"\n          href="../_static/opensearch.xml"/>\n    <link rel="author" title="About these documents" href="../about.html" />\n    <link rel="index" title="Index" href="../genindex.html" />\n    <link rel="search" title="Search" href="../search.html" />\n    <link rel="copyright" title="Copyright" href="../copyright.html" />\n    <link rel="next" title="statistics \xe2\x80\x94 Mathematical statistics functions" href="statistics.html" />\n    <link rel="prev" title="fractions \xe2\x80\x94 Rational numbers" href="fractions.html" />\n    <link rel="canonical" href="https://docs.python.org/3/library/random.html" />\n    \n      \n      \n    \n\n    \n    <style>\n      @media only screen {\n        table.full-width-table {\n            width: 100%;\n        }\n      }\n    </style>\n\n    <link rel="shortcut icon" type="image/png" href="../_static/py.png" />\n    \n    <script 
+    
+    ......
+    
+    Documentation</a> &#187;\n    </li>\n\n          <li class="nav-item nav-item-1"><a href="index.html" >The Python Standard Library</a> &#187;</li>\n          <li class="nav-item nav-item-2"><a href="numeric.html" accesskey="U">Numeric and Mathematical Modules</a> &#187;</li>\n    <li class="right">\n        \n\n    <div class="inline-search" style="display: none" role="search">\n    </li>\n\n    <li><img src="../_static/py.png" alt=""\n             style="vertical-align: middle; margin-top: -1px"/></li>\n    <li><a href="https://www.python.org/">Python</a> &#187;</li>\n    \n\n    <li>\n      <a href="../index.html">3.9.2 Documentation</a> &#187;\n    </li>\n\n          <li class="nav-item nav-item-1"><a href="index.html" >The Python Standard Library</a> &#187;</li>\n          <li class="nav-item nav-item-2"><a href="numeric.html" accesskey="U">Numeric and Mathematical Modules</a> &#187;</li>\n    <li class="right">\n        \n\n    <div class="inline-search" style="display: none" role="search">\n        <form class="inline-search" action="../search.html" method="get">\n          <input placeholder="Quick search" type="text" name="q" />\n          <input type="submit" value="Go" />\n          <input type="hidden" name="check_keywords" value="yes" />\n          <input type="hidden" name="area" value="default" />\n        </form>\n    </div>\n    <script type="text/javascript">
+>>>>>>> First commit
 
 
 
@@ -137,19 +143,20 @@ soup
     <link href="../_static/pygments.css" rel="stylesheet" type="text/css"/>
     <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
     <script src="../_static/jquery.js"></script>
-    <script src="../_static/underscore.js"></script>
-    <script src="../_static/doctools.js"></script>
-    <script src="../_static/language_data.js"></script>
-    <script src="../_static/sidebar.js"></script>
-    <link href="../_static/opensearch.xml" rel="search" title="Search within Python 3.9.2 documentation" type="application/opensearchdescription+xml"/>
-    <link href="../about.html" rel="author" title="About these documents"/>
-    <link href="../genindex.html" rel="index" title="Index"/>
-    <link href="../search.html" rel="search" title="Search"/>
-    <link href="../copyright.html" rel="copyright" title="Copyright"/>
-    <link href="statistics.html" rel="next" title="statistics — Mathematical statistics functions"/>
-    <link href="fractions.html" rel="prev" title="fractions — Rational numbers"/>
-    <link href="https://docs.python.org/3/library/random.html" rel="canonical"/>
+ 
+
+    <a href="https://www.python.org/psf/donations/">Please donate.</a>
+    <br/>
+    <br/>
+    
+        Last updated on Mar 24, 2021.
+        <a href="https://docs.python.org/3/bugs.html">Found a bug</a>?
+        <br/>
+    
+        Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 2.4.4.
+=======
           Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 2.4.4.
+>>>>>>> First commit
         </div>
     <script src="../_static/switchers.js" type="text/javascript"></script>
     </body>
@@ -198,7 +205,148 @@ print(names)
     <code class="sig-prename descclassname">random.</code><code class="sig-name descname">seed</code><span class="sig-paren">(</span><em class="sig-param">a=None</em>, <em class="sig-param">version=2</em><span class="sig-paren">)</span><a class="headerlink" href="#random.seed" title="Permalink to this definition">¶</a></dt>, <dt id="random.getstate">
     <code class="sig-prename descclassname">random.</code><code class="sig-name descname">getstate</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#random.getstate" title="Permalink to this definition">¶</a></dt>, <dt id="random.setstate">
     <code class="sig-prename descclassname">random.</code><code class="sig-name descname">setstate</code><span class="sig-paren">(</span><em class="sig-param">state</em><span class="sig-paren">)</span><a class="headerlink" href="#random.setstate" title="Permalink to this definition">¶</a></dt>, <dt id="random.randbytes">
+<<<<<<< HEAD
+    <code class="sig-prename descclassname">random.</code><code class="sig-name descname">randbytes</code><span class="sig-paren">(</span><em class="sig-param">n</em><span class="sig-paren">)</span><a class="headerlink" href="#random.randbytes" title="Permalink to this definition">¶</a></dt>, <dt id="random.randrange">
+    <code class="sig-prename descclassname">random.</code><code class="sig-name descname">randrange</code><span class="sig-paren">(</span><em class="sig-param">stop</em>
+    
+    .....
+    
+    <em class="property">class </em><code class="sig-prename descclassname">random.</code><code class="sig-name descname">SystemRandom</code><span class="sig-paren">(</span><span class="optional">[</span><em class="sig-param">seed</em><span class="optional">]</span><span class="sig-paren">)</span><a class="headerlink" href="#random.SystemRandom" title="Permalink to this definition">¶</a></dt>]
+
+
+**There are still some works to do! This is when regex kicks in.**
+
+
+
+```python
+# Find all the information we're looking for with regex
+# In this case, it would be every string at starts with id='random.'
+
+function_names = re.findall('id="random.\w+' , str(names)) # '\w+' which means the string should end with the function name
+
+# Let print the results
+print(function_names)
+```
+
+    ['id="random.seed', 'id="random.getstate', 'id="random.setstate', 'id="random.randbytes', 'id="random.randrange', 'id="random.randint', 'id="random.getrandbits', 'id="random.choice', 'id="random.choices', 'id="random.shuffle', 'id="random.sample', 'id="random.random', 'id="random.uniform', 'id="random.triangular', 'id="random.betavariate', 'id="random.expovariate', 'id="random.gammavariate', 'id="random.gauss', 'id="random.lognormvariate', 'id="random.normalvariate', 'id="random.vonmisesvariate', 'id="random.paretovariate', 'id="random.weibullvariate', 'id="random.Random', 'id="random.SystemRandom']
+
+
+**We are almost there! We just need to remove the first few characters from each string.**
+
+
+```python
+# Using list comprehension to edit our values:
+
+function_names = [item[4:] for item in function_names]
+
+# Let print the results
+print(function_names)
+```
+
+    ['random.seed', 'random.getstate', 'random.setstate', 'random.randbytes', 'random.randrange', 'random.randint', 'random.getrandbits', 'random.choice', 'random.choices', 'random.shuffle', 'random.sample', 'random.random', 'random.uniform', 'random.triangular', 'random.betavariate', 'random.expovariate', 'random.gammavariate', 'random.gauss', 'random.lognormvariate', 'random.normalvariate', 'random.vonmisesvariate', 'random.paretovariate', 'random.weibullvariate', 'random.Random', 'random.SystemRandom']
+
+
+**Perfect! Now we need to do the same with the function description.
+We have to target the description details with tag - `dd`**
+
+<br>
+
+
+<img src = "https://docs.google.com/uc?export=download&id=169-W93jfnmbwHejyP4QV4sDQm9LgriwB" />
+
+<br>
+<br>
+
+
+```python
+# Find all the function description
+
+description = soup.body.findAll('dd')
+
+#print(description)
+```
+
+**Wow it looks very complicated! There are lots of tags here (`<em>` tags). These unnecessary elements from the above method would take a long time to get rid of manually.**
+    
+Luckily, BeautifulSoup is not only beautiful, it's also smart. Let's look at the `.text` method:
+
+
+```python
+# Create a list
+
+function_usage = []
+
+# Create a loop
+
+for item in description:
+    item = item.text      #  Save the extracted text to a variable
+    item = item.replace('\n', ' ')     # to get rid of the next line operator which is `\n` 
+    function_usage.append(item)
+    
+#print(function_usage)  # Don't get overwhelmed! they are just all the function description from the above function names
+```
+
+
+```python
+# Let's check the length of the function_names and function_usage
+
+print(f' Length of function_names: {len(function_names)}')
+print(f' Length of function_usage: {len(function_usage)}')
+```
+
+     Length of function_names: 25
+     Length of function_usage: 25
+
+
+### Make A Database
+
+
+```python
+# Create a dataframe since the length of both variables are equal!
+
+data = pd.DataFrame( {  'function name': function_names, 
+                      'function usage' : function_usage  } )
+
+data
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+    
+    
+    ........
+    
+    
+      <th>21</th>
+      <td>random.paretovariate</td>
+      <td>Pareto distribution.  alpha is the shape param...</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>random.weibullvariate</td>
+      <td>Weibull distribution.  alpha is the scale para...</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>random.Random</td>
+      <td>Class that implements the default pseudo-rando...</td>
+=======
  t pseudo-rando...</td>
+>>>>>>> First commit
     </tr>
     <tr>
       <th>24</th>
