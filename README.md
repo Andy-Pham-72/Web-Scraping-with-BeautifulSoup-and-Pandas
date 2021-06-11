@@ -1871,7 +1871,8 @@ plt.show()
 
 
     
-![png](output_54_0.png)
+![image](https://drive.google.com/uc?export=view&id=1JJQTnoOwjaJE-sWpi7TMj9PB7B5sTGo8)
+
     
 
 
